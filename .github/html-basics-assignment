@@ -15,11 +15,10 @@
 <nav>
   <h2>Navigation</h2>
   <a href="./index.html">Home</a><br>
-  <a href="./boards.html">Boards</a><br>
 </nav>
 
   <h3>This is the index page</h3>
-  <p>Welcome! This Page introduces the purpose of the website and provides navigation to the boards section.</p>
+  <p>Welcome! This Page introduces the purpose of the website and provides navigation.</p>
 
   <img id="memeImage"src="https://slidechef.net/wp-content/uploads/2023/03/peter-parker-memes.jpg" alt="funny meme">
 
