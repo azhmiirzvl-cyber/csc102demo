@@ -1,0 +1,35 @@
+<!-- created by Azhmiir Zavala, Date: 05/18/2025 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Index Page</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<header>
+ <h1>Welcome to my website</h1> 
+</header>
+
+<nav>
+  <h2>Navigation</h2>
+  <a href="./index.html">Home</a><br>
+  <a href="./boards.html">Boards</a><br>
+</nav>
+
+  <h3>This is the index page</h3>
+  <p>Welcome! This Page introduces the purpose of the website and provides navigation to the boards section.</p>
+
+  <img id="memeImage"src="https://slidechef.net/wp-content/uploads/2023/03/peter-parker-memes.jpg" alt="funny meme">
+
+  <footer>
+    Azhmiir Zavala<br>
+    University of Advancing Technology<br>
+    2625 W baseline Rd<br>
+    Tempe, AZ 85283<br>
+    <p>Thanks for Visiting! Explore more using the links above.</p>
+  </footer>
+
+</body>
+</html>
